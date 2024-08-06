@@ -1,12 +1,9 @@
-# Folder Organizer Documentation
-
-- [English Version](#english-version)
-- [Versão em Português](#versão-em-português)
+<h1 align="center"> <a href="#english-version">Documentation</a> | <a href="#versao-em-portugues">Documentação</a> </h1>
 
 
 
 ## English Version
-<!-- English Version -->
+<a id="english-version"></a>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/62bbd0f1-bede-45b8-a7c0-0981b6042749" alt="Folders">
@@ -112,7 +109,7 @@ If you have any questions, tips, want to share experiences, or just chat, feel f
 
 ---
 ## Versão em Português
-<!-- Versão em Português -->
+<a id="versao-em-portugues"></a>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/62bbd0f1-bede-45b8-a7c0-0981b6042749" alt="Folders">
