@@ -170,7 +170,7 @@ Este arquivo de configuração permite que você especifique mapeamentos para ex
 
 Exemplo de Configuração do `controller.json`:
 
-```
+```json
 {
     "extension_mapping": {
         "jpg,jpeg,png,gif,svg,bmp,tiff": "images_folder",
@@ -187,6 +187,7 @@ Exemplo de Configuração do `controller.json`:
 
     "ignore_folders": ["backup_folder", "ignore"]
 }
+
 ```
 
 ---
