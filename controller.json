@@ -1,0 +1,41 @@
+{
+    "extension_mapping": {
+        "jpg,jpeg,png,gif,svg,bmp,tiff": "images_folder",
+        "pdf,doc,docx,txt,rtf,odt,docm": "documents_folder",
+        "xls,xlsx,csv,ods,tsv,xlsb": "spreadsheets_folder",
+        "ppt,pptx,pps,ppsx": "presentations_folder",
+        "mp3,wav,flac,aac,ogg,opus": "audio_folder",
+        "mp4,avi,mkv,mov,wmv,flv,webm": "videos_folder",
+        "zip,rar,7z,tgz,gz,bz2,xz": "compressed_files_folder",
+        "py,java,js,html,css,md,cpp,h,rs,go,swift": "code_folder",
+        "epub,mobi,azw3,pdb,fb2": "ebooks_folder",
+        "iso,bin,cue": "disk_images_folder",
+        "sql,db,sqlite": "databases_folder",
+        "xml,json,yaml,ini": "config_files_folder",
+        "log,trace": "log_files_folder",
+        "tar,tar.gz,tar.bz2,tar.xz": "tar_files_folder",
+        "kdbx,psd,xcf": "misc_files_folder"
+    },
+
+    "name_prefix_mapping": {
+        "document_": "work_folder",
+        "job_": "work_folder"
+    },
+
+    "ignore_folders": [
+        "backup_folder",
+        "images_folder",
+        "documents_folder",
+        "spreadsheets_folder",
+        "presentations_folder",
+        "audio_folder",
+        "videos_folder",
+        "compressed_files_folder",
+        "code_folder",
+        "ebooks_folder",
+        "work_folder",
+        "ignore"
+    ],
+
+     "log_folder": "logs"
+}
