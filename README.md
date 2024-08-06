@@ -44,7 +44,7 @@ The app simplifies file management tasks, making it easy for users to keep their
 1. **Run the Application:**
    Start the application by running the script:
    ```bash
-   python file_organizer.py
+   python main.py
    ```
    
 2. **Select the Main Folder:**
@@ -150,7 +150,7 @@ O aplicativo simplifica as tarefas de gerenciamento de arquivos, facilitando par
 1. **Execute o Aplicativo:**
    Inicie o aplicativo executando o script:
    ```bash
-   python file_organizer.py
+   python main.py
    ```
 2. **Selecione a Pasta Principal:**
 Use o botão "Browse" para selecionar a pasta que você deseja organizar.
